@@ -1,0 +1,7 @@
+/.idea/
+/.idea/**
+/.idea/sonarlint/
+/.idea/sonarlint/issuestore/
+/fajar-cli/target/
+/spring-shell.log
+/fajar-technical.iml
